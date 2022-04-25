@@ -1,0 +1,1 @@
+pyuic5 -x ParseExcel.ui -o ParseExcel_gui.py
