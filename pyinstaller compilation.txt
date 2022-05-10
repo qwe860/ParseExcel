@@ -1,1 +1,1 @@
-pyinstaller --noconsole ParseExcel.py
+pyinstaller --onefile --noconsole ParseExcel.py
